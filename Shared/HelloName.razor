@@ -1,9 +1,8 @@
 @using System
 
-<h1>Saluton Mondo!</h1>
+<strong>Saluton Mondo! </strong>
 @if(Name != null) {
-<span>Your name is @Name . The time is @DateTime.Now.ToLongDateString() </span>
-
+    <span> Hi @Name. Today is @DateTime.Now.ToLongDateString() </span>
 }
 
 @code {

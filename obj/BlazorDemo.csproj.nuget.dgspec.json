@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projecten\\BlazorDemo\\BlazorDemo.csproj": {}
+    "D:\\projecten\\BlazorDemo\\Blazor-test\\BlazorDemo.csproj": {}
   },
   "projects": {
-    "D:\\Projecten\\BlazorDemo\\BlazorDemo.csproj": {
+    "D:\\projecten\\BlazorDemo\\Blazor-test\\BlazorDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projecten\\BlazorDemo\\BlazorDemo.csproj",
+        "projectUniqueName": "D:\\projecten\\BlazorDemo\\Blazor-test\\BlazorDemo.csproj",
         "projectName": "BlazorDemo",
-        "projectPath": "D:\\Projecten\\BlazorDemo\\BlazorDemo.csproj",
-        "packagesPath": "C:\\Users\\Florian\\.nuget\\packages\\",
-        "outputPath": "D:\\Projecten\\BlazorDemo\\obj\\",
+        "projectPath": "D:\\projecten\\BlazorDemo\\Blazor-test\\BlazorDemo.csproj",
+        "packagesPath": "C:\\Users\\Erik\\.nuget\\packages\\",
+        "outputPath": "D:\\projecten\\BlazorDemo\\Blazor-test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Florian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
