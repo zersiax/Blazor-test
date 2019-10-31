@@ -1,0 +1,12 @@
+@using System
+
+<h1>Saluton Mondo!</h1>
+@if(Name != null) {
+<span>Your name is @Name . The time is @DateTime.Now.ToLongDateString() </span>
+
+}
+
+@code {
+    [Parameter]
+    public String Name { get; set; }
+}
